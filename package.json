@@ -1,0 +1,16 @@
+{
+  "name": "shopify_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shopify_challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "request": "^2.79.0"
+  }
+}
